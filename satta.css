@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    text-decoration-line: none;
+    color: skyblue;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    border-radius: 60%;
+    position: relative;
+
+    float: right;
+}
